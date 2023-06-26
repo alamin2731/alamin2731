@@ -13,6 +13,10 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 <br>
 
+<p align="center" >
+<img  height="280rem" alt="GIF" src="https://i.ibb.co/vspgJ9W/gif.gif" />
+</p>
+
   <p>
   
 
