@@ -359,7 +359,7 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b></b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stacks</b>
 
 
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin2731&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
@@ -368,11 +368,11 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 <br>
 
-## <b>💪</b>
+## <b>💪Quote || Fact</b>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
 <br>
 
-<p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
+#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
